@@ -8,11 +8,11 @@ Syntax
 ------
 
 ```lua
-GetPlayerIdentifiers(playerId)
+GetPlayerIdentifiers(player)
 ```
 
 ### Required arguments
-- **playerId**: The ID of the player to call the event for. Specify -1 for all clients.
+- **player**: The ID of the player to get the identifiers from.
 
 Examples
 --------
